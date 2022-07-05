@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Junho's github stats](https://github-readme-stats.vercel.app/api?username=skarndwnsgh123)](https://github.com/NamJun04/github-readme-stats)
+[![Junho's github stats](https://github-readme-stats.vercel.app/api?username=NamJun04)](https://github.com/NamJun04/github-readme-stats)
 
 <!--
 **NamJun04/NamJun04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
