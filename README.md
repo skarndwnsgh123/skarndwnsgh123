@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer&text=Hi, this is my GitHub&fontSize=100" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer&text=Hi, this is my GitHub&fontSize=70" />
 
 [![Junho's github stats](https://github-readme-stats.vercel.app/api?username=NamJun04)](https://github.com/NamJun04/github-readme-stats)
 
