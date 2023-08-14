@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=350&section=header&text=Hi,%20this%20is%20my%20GitHub&fontSize=90)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NamJun04)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamJun04)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **NamJun04/NamJun04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
