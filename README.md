@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi,%20this%20is%20my%20GitHub&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=350&section=header&text=Hi,%20this%20is%20my%20GitHub&fontSize=90)
+
 
 [![Junho's github stats](https://github-readme-stats.vercel.app/api?username=NamJun04)](https://github.com/NamJun04/github-readme-stats)
 
