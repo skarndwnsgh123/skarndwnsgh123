@@ -1,4 +1,4 @@
-### Hi ☺☺
+# Hi ☺☺
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=350&section=header&text=This%20is%20my%20GitHub&fontSize=90)  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamJun04&hide=contribs,prs&show_icons=true&theme=테마)  
